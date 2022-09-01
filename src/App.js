@@ -1,5 +1,9 @@
 function App() {
-  return <div className="App">Suspense Example</div>;
+  return (
+    <div className="w-screen h-screen flex items-center justify-center">
+      Suspense Example
+    </div>
+  );
 }
 
 export default App;
